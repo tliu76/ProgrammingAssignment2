@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-#functions do:
+#functions do
 #set a special matrix object
 #get a special matrix object
 #set the inverse of a matrix
